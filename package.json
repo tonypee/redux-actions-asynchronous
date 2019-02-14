@@ -1,0 +1,16 @@
+{
+  "name": "redux-actions-asyncronous",
+  "version": "1.0.0",
+  "description": "use async await with redux, and have START and POST helper actions automatically dispatched",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redux-actions": "^2.6.4",
+    "typescript": "^3.3.3"
+  }
+}
